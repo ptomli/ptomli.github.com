@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Paul Tomlin -- @ptomli
+
+# THANKS
+
+    Everyone contributing to
+    - HTML5 Boilerplate
+    - Jekyll
+    - GitHub
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    Normalize.css, jQuery, Modernizr
